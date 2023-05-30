@@ -1,0 +1,13 @@
+#app {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+b{
+    font-size: 1.4em;
+}
